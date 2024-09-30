@@ -26,6 +26,6 @@ Here are some ideas to get you started:
   <img align="center" alt="PowerShell" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg">
   <img align="center" alt="PyCharm" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg">
   <img align="center" alt="vsCODE" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="GitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg">
+  <img align="center" alt="GitHub" height="30" width="40" src="https://github.com/oyuriroferr/oyuriroferr/blob/main/github.svg">
 </div>
 
