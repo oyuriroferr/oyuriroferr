@@ -16,7 +16,7 @@
 <img src="/SVGs/pycharm-original.svg" alt="PyCharm" height="30" width="40">
 <img src="/SVGs/vscode-original.svg" alt="VS Code" height="30" width="40">
 <img src="/SVGs/github-original.svg" alt="GitHub" height="30" width="40">
-<img src="/SVGs/rust-original.svg" alt="Rust" height="30" width="40" style="filter:invert(1);">
+<img src="/SVGs/rust-original.svg" alt="Rust" height="30" width="40">
 
 
 </div>
