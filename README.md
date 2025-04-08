@@ -8,7 +8,7 @@
 
 <div style="display: inline_block"><br>
 
-  <img align="center" alt="Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg">
+  <img align="center" alt="Illustrator" height="30" width="40" src="/SVGs/illustrator-plain.svg">
   <img align="center" alt="Fedora" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg">
   <img align="center" alt="Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
