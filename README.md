@@ -15,8 +15,8 @@
   <img align="center" alt="PowerShell" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/powershell/powershell-original.svg">
   <img align="center" alt="PyCharm" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/pycharm/pycharm-original.svg">
   <img align="center" alt="vsCODE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" style="filter: invert(1);>
-  <img align="center" alt=¨Rust" height="30" width=40¨ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" style="filter: invert(1);>
+  <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" style="filter: invert(1);"/>
+  <img align="center" alt=¨Rust" height="30" width=40¨ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" style="filter: invert(1);"/>
   
 </div>
 
