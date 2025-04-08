@@ -16,7 +16,7 @@
 <img src="/SVGs/pycharm-original.svg" alt="PyCharm" height="40" width="50">
 <img src="/SVGs/vscode-original.svg" alt="VS Code" height="40" width="50">
 <img src="/SVGs/github-original.svg" alt="GitHub" height="40" width="50">
-<img src="/SVGs/rust-original.svg" alt="Rust" height="40" width="50">
+<img src="/SVGs/rust-line.svg" alt="Rust" height="40" width="50">
 
 
 </div>
