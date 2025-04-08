@@ -8,14 +8,15 @@
 
 <div style="display: inline_block"><br>
 
-  <img align="center" alt="Illustrator" height="30" width="40" src="/SVGs/illustrator-plain.svg">
-  <img align="center" alt="Fedora" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg">
-  <img align="center" alt="Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="PowerShell" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/powershell/powershell-original.svg">
-  <img align="center" alt="PyCharm" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/pycharm/pycharm-original.svg">
-  <img align="center" alt="VS Code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" style="filter: invert(1);">
-  <img align="center" alt="Rust" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" style="filter: invert(1);">
+  <img src="/SVGs/illustrator-plain.svg" alt="Illustrator" height="30" width="40">
+<img src="/SVGs/fedora-original.svg" alt="Fedora" height="30" width="40">
+<img src="/SVGs/photoshop-original.svg" alt="Photoshop" height="30" width="40">
+<img src="/SVGs/python-original.svg" alt="Python" height="30" width="40">
+<img src="/SVGs/powershell-original.svg" alt="PowerShell" height="30" width="40">
+<img src="/SVGs/pycharm-original.svg" alt="PyCharm" height="30" width="40">
+<img src="/SVGs/vscode-original.svg" alt="VS Code" height="30" width="40">
+<img src="/SVGs/github-original.svg" alt="GitHub" height="30" width="40">
+<img src="/SVGs/rust-original.svg" alt="Rust" height="30" width="40" style="filter:invert(1);">
+
 
 </div>
